@@ -6,7 +6,11 @@
 
   <groupId>com.cron.authR</groupId>
   <artifactId>AuthR</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>basic-login-service</module>
+  </modules>
 
   <name>AuthR</name>
   <!-- FIXME change it to the project's website -->
